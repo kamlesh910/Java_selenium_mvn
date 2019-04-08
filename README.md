@@ -1,6 +1,5 @@
 ### Authors
-# Kamalesh
-# Kanchan
+Kamalesh, Kanchan
 
 ## How to run 
 mvn test 
