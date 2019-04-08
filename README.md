@@ -1,6 +1,10 @@
+# Java Selenium Automation Code
+
+### How to run 
+```
+mvn install
+mvn test
+```
+
 ### Authors
 Kamalesh, Kanchan
-
-## How to run 
-mvn test 
-mvn surefire-report:report  
